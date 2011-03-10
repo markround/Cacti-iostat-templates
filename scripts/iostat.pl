@@ -146,18 +146,9 @@ sub getoid {
             print "string\n";
         }
 
-        if ( $stats{$oid} =~ m/dm-/ ) {
-                my $dev_minor = $stats{$oid} ;
-                $dev_minor =~ s/dm-//;
-                my $devname = `dmsetup -C --noheadings -o name -j 253 -m $dev_minor info`;
-                print $devname . "\n";
-        }
-        else {
-                print $stats{$oid} . "\n";
-        }
+        print $stats{$oid} . "\n";
     }
 }
-
 
 sub getnextoid {
     my $first_oid = shift(@_);

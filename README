@@ -37,6 +37,20 @@ CHANGES
                            sysstat found on Debian Etch and other distros.
 14/10/2008 - Version 1.0 - Initial release
 
+FREEBSD NOTES
+-------------
+Thanks to the awesome work of Boogie Shafer, there is now a FreeBSD port
+of these scripts. I have included the modified tarball that was sent to me,
+this is inside the archive as the following directory :
+ 
+cacti-iostat-1.x-boogie_freebsd_linux_changes
+ 
+FreeBSD users should be able to use this modifications and follow the 
+instructions inside.
+
+I have not had time to go through and merge these changes into one unified
+distribution yet, but as people were asking for the FreeBSD port, here it
+is!
 
 INSTALLATION
 ------------

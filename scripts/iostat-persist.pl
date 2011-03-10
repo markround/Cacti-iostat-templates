@@ -15,13 +15,7 @@
 #
 # CHANGES
 # -------
-# 14/10/2010 - Version 1.5 - Added iostat-persist.pl by "asq"
-# 22/06/2009 - Version 1.4 - Added FreeBSD license
-# 19/03/2009 - Version 1.3 - Added patch from Marwan Shaher and Eric Schoeller
-#			     to support Solaris
-# 10/03/2009 - Version 1.1 - Added patch from Viktor Sokolov to work with 
-#                            older sysstat found on Debian Etch and other 
-#                            distros.
+# 14/10/2010 - Version 1.6 - Added iostat-persist.pl by "asq"
 # 14/10/2008 - Version 1.0 - Initial release, Linux iostat only. Solaris etc.
 #                            coming in next revision!
 #
