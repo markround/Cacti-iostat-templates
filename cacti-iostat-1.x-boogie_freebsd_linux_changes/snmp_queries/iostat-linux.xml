@@ -1,0 +1,102 @@
+<interface>
+        <name>Get IOSTAT Devices for Linux</name>
+        <description>Queries a host for a list of monitorable devices from iostat on Linux</description>
+        <oid_index>.1.3.6.1.3.1</oid_index>
+        <index_order>ioDescr:ioName:ioIndex</index_order>
+        <index_order_type>numeric</index_order_type>
+        <index_title_format>|chosen_order_field|</index_title_format>
+
+        <fields>
+                <ioIndex>
+                        <name>Index</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>input</direction>
+                        <oid>.1.3.6.1.3.1.1</oid>
+                </ioIndex>
+                <ioDescr>
+                        <name>Description</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>input</direction>
+                        <oid>.1.3.6.1.3.1.2</oid>
+                </ioDescr>
+                <ioRrqms>
+                        <name>Merged Read Requests</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.3</oid>
+                </ioRrqms>
+                <ioWrqms>
+                        <name>Merged Write Requests</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.4</oid>
+                </ioWrqms>
+                <ioReads>
+                        <name>Read Requests</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.5</oid>
+                </ioReads>
+                <ioWrites>
+                        <name>Write Requests</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.6</oid>
+                </ioWrites>
+                <ioReadKbytes>
+                        <name>kBytes Read</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.7</oid>
+                </ioReadKbytes>
+                <ioWriteKbytes>
+                        <name>kBytes Written</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.8</oid>
+                </ioWriteKbytes>
+                <ioSectors>
+                        <name>Average Request Size</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.9</oid>
+                </ioSectors>
+                <ioQueue>
+                        <name>Average Queue Size</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.10</oid>
+                </ioQueue>
+                <ioAwait>
+                        <name>Average Wait</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.11</oid>
+                </ioAwait>
+                <ioSvctm>
+                        <name>Service Time</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.12</oid>
+                </ioSvctm>
+                <ioUtilization>
+                        <name>Utilization</name>
+                        <method>walk</method>
+                        <source>value</source>
+                        <direction>output</direction>
+                        <oid>.1.3.6.1.3.1.13</oid>
+                </ioUtilization>
+        </fields>
+</interface>

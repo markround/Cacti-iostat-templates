@@ -1,0 +1,20 @@
+
+FreeBSD notes
+
+-add cron job info to  /etc/crontab
+
+# collect iostats
+*       *       *       *       *       root    cd /tmp && iostat -dx 30 2 > io.tmp && mv io.tmp iostat.cache
+
+
+
+
+-uname is in different location (/usr/bin/uname) so the iostat.pl needs to be edited appropriately on that platform (at least with how the script is currently architected)
+
+-i changed the name for the linux iostat.xml to something more platform specific as i was using this in a mixed environment, i also changed the spelling for utilization as i'm from where i'm from and that is how we spell it here
+
+-the templates are for 0.8.7e, and i changed a few things from the defaults (removed MIN, pushed current up, consolidated all the linux templates into 1, etc)
+
+-i didnt have a solaris host to test with to cleanup templates so i left those as is in the 1.4 bundle
+
+
