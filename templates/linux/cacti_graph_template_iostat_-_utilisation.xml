@@ -3,7 +3,7 @@
 		<name>iostat - Utilisation</name>
 		<graph>
 			<t_title></t_title>
-			<title>|host_hostname| - iostat - Utilisation - |query_ioDescr|</title>
+			<title>|host_description| - iostat - Utilisation - |query_ioDescr|</title>
 			<t_image_format_id></t_image_format_id>
 			<image_format_id>1</image_format_id>
 			<t_height></t_height>
