@@ -1,4 +1,4 @@
-<cacti>	
+<cacti>
 	<hash_040016bab2796d9a69a6a88cacc17a277d3b3d>
 		<name>iostat - Utilisation</name>
 		<description>iostat utilisation</description>
@@ -200,7 +200,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>2</sequence>
 			</hash_1000161470c8726acbb5a5fa056437034e5385>
@@ -239,7 +239,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>5</sequence>
 			</hash_10001611576456a4714080d503e3f2cfd91b59>
@@ -519,6 +519,6 @@
 	</hash_150016e36f3adb9f152adfa5dc50fd2b23337e>
 	<hash_060016e9c43831e54eca8069317a2ce8c6f751>
 		<name>Normal</name>
-		<gprint_text>%8.2lf %s</gprint_text>
+		<gprint_text>%8.2lf%s</gprint_text>
 	</hash_060016e9c43831e54eca8069317a2ce8c6f751>
 </cacti>

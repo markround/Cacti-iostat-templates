@@ -1,4 +1,4 @@
-<cacti>	
+<cacti>
 	<hash_0400161d0c11518ca88453c233d4288bd25918>
 		<name>iostat - Request size</name>
 		<description>iostat request size</description>
@@ -200,7 +200,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>2</sequence>
 			</hash_10001659e055ea0ebc10ad7c615192f2a72828>
@@ -239,7 +239,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>5</sequence>
 			</hash_100016b3db55ebf72f787dc747b18fd4a8e4db>
@@ -519,6 +519,6 @@
 	</hash_150016e36f3adb9f152adfa5dc50fd2b23337e>
 	<hash_060016e9c43831e54eca8069317a2ce8c6f751>
 		<name>Normal</name>
-		<gprint_text>%8.2lf %s</gprint_text>
+		<gprint_text>%8.2lf%s</gprint_text>
 	</hash_060016e9c43831e54eca8069317a2ce8c6f751>
 </cacti>
