@@ -1,4 +1,4 @@
-<cacti>	
+<cacti>
 	<hash_00001629a71dd4ed0f0f09b4f498efd2aee7d5>
 		<name>iostat - Bytes/sec</name>
 		<graph>
@@ -62,7 +62,7 @@
 				<cdef_id>hash_050016634a23af5e78af0964e8d33b1a4ed26b</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>2</sequence>
 			</hash_100016155bd7ae4c7f7ec8ae63ce6de9e8a533>
@@ -101,7 +101,7 @@
 				<cdef_id>hash_050016634a23af5e78af0964e8d33b1a4ed26b</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>5</sequence>
 			</hash_10001664d526693c52edda2535cc3eb402ec09>
@@ -127,7 +127,7 @@
 				<cdef_id>hash_050016634a23af5e78af0964e8d33b1a4ed26b</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>7</sequence>
 			</hash_100016884afc7733f708f041c70fc3b5aadf4b>
@@ -166,7 +166,7 @@
 				<cdef_id>hash_050016634a23af5e78af0964e8d33b1a4ed26b</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>10</sequence>
 			</hash_100016f62bdd1fe160735d9af5f115e6c2aa6c>
@@ -192,7 +192,7 @@
 				<cdef_id>hash_050016068984b5ccdfd2048869efae5166f722</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>12</sequence>
 			</hash_10001623951426d6fab7f972779eba57418b38>
@@ -231,7 +231,7 @@
 				<cdef_id>hash_050016068984b5ccdfd2048869efae5166f722</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>15</sequence>
 			</hash_100016b158a659b007eae59771127278c6217b>
@@ -672,6 +672,6 @@
 	</hash_050016068984b5ccdfd2048869efae5166f722>
 	<hash_060016e9c43831e54eca8069317a2ce8c6f751>
 		<name>Normal</name>
-		<gprint_text>%8.2lf %s</gprint_text>
+		<gprint_text>%8.2lf%s</gprint_text>
 	</hash_060016e9c43831e54eca8069317a2ce8c6f751>
 </cacti>

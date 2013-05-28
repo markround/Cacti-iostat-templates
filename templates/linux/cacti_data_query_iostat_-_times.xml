@@ -1,4 +1,4 @@
-<cacti>	
+<cacti>
 	<hash_040016f8e94698afd13641919b4a666a401991>
 		<name>iostat - Times</name>
 		<description>iostat timing information</description>
@@ -205,7 +205,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>2</sequence>
 			</hash_1000165312560aa5380ee37e16d64d7cef1e67>
@@ -244,7 +244,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>5</sequence>
 			</hash_1000160a62d49e90abcc65128f9a0b68ef5c50>
@@ -270,7 +270,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>7</sequence>
 			</hash_1000160d75fd6fc69358cfc0546dfb4b054569>
@@ -309,7 +309,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>10</sequence>
 			</hash_10001619e9d465fc30f41362fd7b9ef4605112>
@@ -595,6 +595,6 @@
 	</hash_150016e36f3adb9f152adfa5dc50fd2b23337e>
 	<hash_060016e9c43831e54eca8069317a2ce8c6f751>
 		<name>Normal</name>
-		<gprint_text>%8.2lf %s</gprint_text>
+		<gprint_text>%8.2lf%s</gprint_text>
 	</hash_060016e9c43831e54eca8069317a2ce8c6f751>
 </cacti>

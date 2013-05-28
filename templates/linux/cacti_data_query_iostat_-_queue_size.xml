@@ -1,4 +1,4 @@
-<cacti>	
+<cacti>
 	<hash_0400165898dbe8858685acbdd28aca4aa4499b>
 		<name>iostat - Queue size</name>
 		<description>iostat queue size</description>
@@ -200,7 +200,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>2</sequence>
 			</hash_10001694597892642892e578a211f98f7bbf8b>
@@ -239,7 +239,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060016e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>5</sequence>
 			</hash_100016d2bba45ee86e05ba616dcf13ed130512>
@@ -519,6 +519,6 @@
 	</hash_150016e36f3adb9f152adfa5dc50fd2b23337e>
 	<hash_060016e9c43831e54eca8069317a2ce8c6f751>
 		<name>Normal</name>
-		<gprint_text>%8.2lf %s</gprint_text>
+		<gprint_text>%8.2lf%s</gprint_text>
 	</hash_060016e9c43831e54eca8069317a2ce8c6f751>
 </cacti>
