@@ -129,7 +129,7 @@ sub process {
         }
 
         if ($ostype eq 'solaris') {
-           /^([a-z0-9\-\/]+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d)\s+(\d)/;
+           /^([a-z0-9\-\/]+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+\.\d+)\s+(\d+)\s+(\d+)/;
 
            $stats{"$base_oid.1.$devices"}  = $devices;     # index
            $stats{"$base_oid.2.$devices"}  = $1;           # device name
