@@ -1,4 +1,4 @@
-<cacti>	
+<cacti>
 	<hash_0400182df4b01e2740d6b4b4fee938a22439dd>
 		<name>Solaris - Disk Stats</name>
 		<description>Solaris - Disk Stats</description>
@@ -280,9 +280,9 @@
 			<t_image_format_id></t_image_format_id>
 			<image_format_id>1</image_format_id>
 			<t_height></t_height>
-			<height>150</height>
+			<height>120</height>
 			<t_width></t_width>
-			<width>600</width>
+			<width>500</width>
 			<t_slope_mode></t_slope_mode>
 			<slope_mode>on</slope_mode>
 			<t_auto_scale></t_auto_scale>
@@ -335,7 +335,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>2</sequence>
 			</hash_1000187c1659e6511b6e760a1d1c3ac811c346>
@@ -374,7 +374,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>5</sequence>
 			</hash_1000186ecd2c4304f95f7091d015a3232f9ce3>
@@ -400,7 +400,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>7</sequence>
 			</hash_100018a26bf87e5c232dc21c1faec1f39b0108>
@@ -439,7 +439,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>10</sequence>
 			</hash_1000180a80625beaec4b28e6706167808084ac>
@@ -467,9 +467,9 @@
 			<t_image_format_id></t_image_format_id>
 			<image_format_id>1</image_format_id>
 			<t_height></t_height>
-			<height>150</height>
+			<height>120</height>
 			<t_width></t_width>
-			<width>600</width>
+			<width>500</width>
 			<t_slope_mode></t_slope_mode>
 			<slope_mode>on</slope_mode>
 			<t_auto_scale></t_auto_scale>
@@ -522,7 +522,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>2</sequence>
 			</hash_100018787f29519058a0de5f1d9fe3898d03a4>
@@ -561,7 +561,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>5</sequence>
 			</hash_10001837d4d3489ad53511eab49b02e164e638>
@@ -587,7 +587,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>7</sequence>
 			</hash_1000187c20453ec26bdb655fc7ed71d2af9b5e>
@@ -626,7 +626,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>10</sequence>
 			</hash_100018a37aabf2e7440f7e6fd4bcad6f79074a>
@@ -654,9 +654,9 @@
 			<t_image_format_id></t_image_format_id>
 			<image_format_id>1</image_format_id>
 			<t_height></t_height>
-			<height>150</height>
+			<height>120</height>
 			<t_width></t_width>
-			<width>600</width>
+			<width>500</width>
 			<t_slope_mode></t_slope_mode>
 			<slope_mode>on</slope_mode>
 			<t_auto_scale></t_auto_scale>
@@ -709,7 +709,7 @@
 				<cdef_id>hash_050018634a23af5e78af0964e8d33b1a4ed26b</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>2</sequence>
 			</hash_10001889643034b1a4ecf28ae7a2d54691799a>
@@ -748,7 +748,7 @@
 				<cdef_id>hash_050018634a23af5e78af0964e8d33b1a4ed26b</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>5</sequence>
 			</hash_10001811a534046e512d38f0416e07b6dbb56d>
@@ -774,7 +774,7 @@
 				<cdef_id>hash_050018634a23af5e78af0964e8d33b1a4ed26b</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>7</sequence>
 			</hash_10001888cd8d785e7e99e8dddbafa23b78f8b3>
@@ -813,7 +813,7 @@
 				<cdef_id>hash_050018634a23af5e78af0964e8d33b1a4ed26b</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>10</sequence>
 			</hash_10001865babe4e3e87e907d4b87b4f0f547d21>
@@ -839,7 +839,7 @@
 				<cdef_id>hash_050018068984b5ccdfd2048869efae5166f722</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>12</sequence>
 			</hash_100018d74679006341e536557b8cd377a55e13>
@@ -878,7 +878,7 @@
 				<cdef_id>hash_050018068984b5ccdfd2048869efae5166f722</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>15</sequence>
 			</hash_100018dfa392c8aadd08ed40c487022b9e394b>
@@ -906,9 +906,9 @@
 			<t_image_format_id></t_image_format_id>
 			<image_format_id>1</image_format_id>
 			<t_height></t_height>
-			<height>150</height>
+			<height>120</height>
 			<t_width></t_width>
-			<width>600</width>
+			<width>500</width>
 			<t_slope_mode></t_slope_mode>
 			<slope_mode>on</slope_mode>
 			<t_auto_scale></t_auto_scale>
@@ -974,7 +974,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>3</sequence>
 			</hash_100018cd1c7a29ab38ed574bcf2d0980ab59f7>
@@ -1000,7 +1000,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018e9c43831e54eca8069317a2ce8c6f751</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>5</sequence>
 			</hash_10001877a87349a06101690a8ed780239f7fb7>
@@ -1035,9 +1035,9 @@
 			<t_image_format_id></t_image_format_id>
 			<image_format_id>1</image_format_id>
 			<t_height></t_height>
-			<height>150</height>
+			<height>120</height>
 			<t_width></t_width>
-			<width>600</width>
+			<width>500</width>
 			<t_slope_mode></t_slope_mode>
 			<slope_mode>on</slope_mode>
 			<t_auto_scale></t_auto_scale>
@@ -1090,7 +1090,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>2</sequence>
 			</hash_1000185c1ffb9a0896047bd847031c1aec44ca>
@@ -1129,7 +1129,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>5</sequence>
 			</hash_100018fdb1e44d3e1616eb0a0337da6beff367>
@@ -1155,7 +1155,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>7</sequence>
 			</hash_1000184eb6b0c8625a693ae76d2b3bdf21637e>
@@ -1194,7 +1194,7 @@
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>10</sequence>
 			</hash_100018c1afbe5ec25ea836ed7c6935b070698b>
@@ -1220,7 +1220,7 @@
 				<cdef_id>hash_050018f1ac79f05f255c02f914c920f1038c54</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Average:</text_format>
+				<text_format>Avg:</text_format>
 				<hard_return></hard_return>
 				<sequence>12</sequence>
 			</hash_100018a7a7120e4206a51994ffd3d08ede445e>
@@ -1259,7 +1259,7 @@
 				<cdef_id>hash_050018f1ac79f05f255c02f914c920f1038c54</cdef_id>
 				<value></value>
 				<gprint_id>hash_060018304a778405392f878a6db435afffc1e9</gprint_id>
-				<text_format>Current:</text_format>
+				<text_format>Cur:</text_format>
 				<hard_return>on</hard_return>
 				<sequence>15</sequence>
 			</hash_100018546bc03a4e5e9798e4f19eb701da7165>
